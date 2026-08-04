@@ -6,10 +6,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Sachin50-droid/DSA/tree/master/0189-rotate-array) |
 | [0875-koko-eating-bananas](https://github.com/Sachin50-droid/DSA/tree/master/0875-koko-eating-bananas) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sachin50-droid/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/Sachin50-droid/DSA/tree/master/0875-koko-eating-bananas) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Sachin50-droid/DSA/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Sachin50-droid/DSA/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
