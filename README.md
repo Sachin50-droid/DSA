@@ -28,9 +28,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sachin50-droid/DSA/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Sachin50-droid/DSA/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Sachin50-droid/DSA/tree/master/0242-valid-anagram) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sachin50-droid/DSA/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sachin50-droid/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
