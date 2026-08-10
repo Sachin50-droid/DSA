@@ -7,17 +7,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Sachin50-droid/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Sachin50-droid/DSA/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/Sachin50-droid/DSA/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/Sachin50-droid/DSA/tree/master/0875-koko-eating-bananas) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sachin50-droid/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Sachin50-droid/DSA/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/Sachin50-droid/DSA/tree/master/0875-koko-eating-bananas) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Sachin50-droid/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Sachin50-droid/DSA/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Sachin50-droid/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Sachin50-droid/DSA/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -35,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Sachin50-droid/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Sachin50-droid/DSA/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -47,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Sachin50-droid/DSA/tree/master/0724-find-pivot-index) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Sachin50-droid/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
