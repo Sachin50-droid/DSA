@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sachin50-droid/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sachin50-droid/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0189-rotate-array](https://github.com/Sachin50-droid/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sachin50-droid/DSA/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/Sachin50-droid/DSA/tree/master/0724-find-pivot-index) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sachin50-droid/DSA/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sachin50-droid/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -58,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Sachin50-droid/DSA/tree/master/0268-missing-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sachin50-droid/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sachin50-droid/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
