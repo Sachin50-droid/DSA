@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sachin50-droid/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sachin50-droid/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Sachin50-droid/DSA/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/Sachin50-droid/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Sachin50-droid/DSA/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/Sachin50-droid/DSA/tree/master/0875-koko-eating-bananas) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sachin50-droid/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sachin50-droid/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sachin50-droid/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Sachin50-droid/DSA/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
