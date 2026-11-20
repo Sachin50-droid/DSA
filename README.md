@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sachin50-droid/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Sachin50-droid/DSA/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sachin50-droid/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0189-rotate-array](https://github.com/Sachin50-droid/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sachin50-droid/DSA/tree/master/0268-missing-number) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sachin50-droid/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Sachin50-droid/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Sachin50-droid/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sachin50-droid/DSA/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Sachin50-droid/DSA/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Sachin50-droid/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sachin50-droid/DSA/tree/master/0268-missing-number) |
 ## Stack
@@ -138,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Sachin50-droid/DSA/tree/master/0643-maximum-average-subarray-i) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Sachin50-droid/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Sachin50-droid/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
