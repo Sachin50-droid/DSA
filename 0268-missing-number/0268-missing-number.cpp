@@ -9,7 +9,7 @@ public:
 
             
         }
-        // sum of Nth term AP = N*N+1/2 = 2N+1/2
+        // sum of Nth term AP = N*(N+1)/2
 
     int sum2 = n*(n+1)/2;
 
