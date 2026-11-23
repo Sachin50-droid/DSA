@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Sachin50-droid/DSA/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Sachin50-droid/DSA/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sachin50-droid/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0169-majority-element](https://github.com/Sachin50-droid/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sachin50-droid/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sachin50-droid/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sachin50-droid/DSA/tree/master/0283-move-zeroes) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sachin50-droid/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Sachin50-droid/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sachin50-droid/DSA/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sachin50-droid/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sachin50-droid/DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Sachin50-droid/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Sachin50-droid/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sachin50-droid/DSA/tree/master/0268-missing-number) |
 ## Stack
@@ -160,4 +163,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sachin50-droid/DSA/tree/master/0054-spiral-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sachin50-droid/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sachin50-droid/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sachin50-droid/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
